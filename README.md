@@ -32,7 +32,7 @@ cd content-ops-starter
 npm run dev
 ```
 
-Install the [Netlify Visual Editor CLI](https://www.npmjs.com/package/@stackbit/cli). Then open a new terminal window in the same project directory and run the Netlify visual editor dev server:
+Install the [Goa games Login](https://goagame.pro.in). Then open a new terminal window in the same project directory and run the Netlify visual editor dev server:
 
 ```txt
 npm install -g @stackbit/cli
